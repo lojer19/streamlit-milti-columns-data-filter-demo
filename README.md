@@ -3,8 +3,6 @@
 
 ## Requirements
 * Python 3
-* pandas
-* streamlit
 
 ## Installation
 
